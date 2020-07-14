@@ -1,0 +1,8 @@
+.footer .main{
+    background-color: rgb(52,58,64);
+    color: white;
+    box-shadow: black 0px 0px 10px 3px !important;
+    position: absolute;
+    bottom:0;
+    width:100%;
+}

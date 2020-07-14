@@ -1,0 +1,17 @@
+.logo1{
+    color : white;
+}
+.logo2{
+    color: rgb(30, 230, 30);
+}
+.navbar-nav a:hover{
+    color: rgb(30, 230, 30) !important;
+}
+
+.navbar-nav .spa:hover{
+    color: white !important;
+}
+
+.header .navbar{
+    box-shadow: black 0px 0px 10px 3px !important;
+}

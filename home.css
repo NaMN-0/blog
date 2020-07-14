@@ -1,0 +1,15 @@
+.main-posts{
+    color: white;
+    box-shadow: black 0px 0px 3px 1px !important;
+    background-color: rgb(52,58,64);
+}
+
+.hr{
+    background-color: white;
+}
+
+.inputData{
+    padding: 0px;
+    height: 200px;
+    width: 100%;
+}
