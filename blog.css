@@ -73,12 +73,12 @@
     top: 0;
     margin-top: 3%;
     background-color: rgb(224, 218, 218);
-    height: 40%;
-    width: 40%;
+    height: 30%;
+    width: 30%;
     padding: 15px;
     padding-bottom: 50px;
     font-family: 'Permanent Marker', cursive;
-    font-size: 1.3rem;
+    font-size: 1rem;
     box-shadow: 0px 0px 5px 1px black;
     transform: rotate(-3deg);
 }
@@ -96,7 +96,7 @@
 }
 
 .picContain3{
-    top: 10px;
+    top: 120px;
     left: -5000px;
     transform: rotate(7deg);
 }
@@ -126,10 +126,15 @@
 
     .picContain{
         margin-top: 6%;
-        height: 40%;
-        width: 70%;
-        font-size: 1.5rem;
+        width: 50%;
+        height : 30%;
+        font-size: 0.8rem;
         box-shadow: 0px 0px 5px 1px black;
+        display: none;
+    }
+
+    .picContain2{
+        display: block;
     }
  
     .content h1{
